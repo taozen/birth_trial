@@ -42,16 +42,16 @@ for i in range(0, 10):
 ## Simulation
 ```
 $ python trial.py
-girls= 1001492 , boys= 1000000 , ratio= 1.001492
-girls= 998178 , boys= 1000000 , ratio= 0.998178
-girls= 1001550 , boys= 1000000 , ratio= 1.00155
-girls= 1001266 , boys= 1000000 , ratio= 1.001266
-girls= 996568 , boys= 1000000 , ratio= 0.996568
-girls= 999342 , boys= 1000000 , ratio= 0.999342
-girls= 1000515 , boys= 1000000 , ratio= 1.000515
-girls= 1000379 , boys= 1000000 , ratio= 1.000379
-girls= 1001829 , boys= 1000000 , ratio= 1.001829
-girls= 1002272 , boys= 1000000 , ratio= 1.002272
+girls= 967519 , boys= 968807 , ratio= 0.998670529837
+girls= 966922 , boys= 968838 , ratio= 0.998022373193
+girls= 969174 , boys= 968842 , ratio= 1.00034267713
+girls= 965454 , boys= 968885 , ratio= 0.996458816062
+girls= 972365 , boys= 968451 , ratio= 1.00404150546
+girls= 970183 , boys= 968681 , ratio= 1.00155056205
+girls= 969131 , boys= 968731 , ratio= 1.00041291132
+girls= 969986 , boys= 968690 , ratio= 1.00133788931
+girls= 969365 , boys= 968914 , ratio= 1.00046546959
+girls= 969086 , boys= 968719 , ratio= 1.00037885083
 
 ```
 
