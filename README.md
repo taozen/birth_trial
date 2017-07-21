@@ -1,7 +1,7 @@
 ## Problem description
 
 There's an evil country where every couple prefer boys to girls. 
-They keeps producing babies until they get a boy. 
+They keep producing babies until they get a boy. 
 What's the gender ratio of this country?
 
 ## Code
